@@ -1,0 +1,250 @@
+1,1,1,1,Chas Jones,la,68,217,94,63,Zambia,181
+2,1,2,2,Micha Olsen,ca,85,187,7,42,Denmark,3647
+3,1,3,3,Arlie Buck,ra,61,201,33,19,Guam,3142
+4,1,4,4,Larita Hurst,ldef,66,201,5,41,U.S. Virgin Islands,934
+5,1,5,5,Mariano Whitaker,rdef,65,171,85,53,Haiti,4074
+6,2,6,6,Yuriko Hamilton,la,78,213,7,32,Congo - Brazzaville,1073
+7,2,7,7,Regine Mosley,ca,47,172,66,30,Kyrgyzstan,536
+8,2,8,8,Hassie Whitney,ra,51,197,93,59,Slovakia,1429
+9,2,9,9,Emmanuel Orr,ldef,80,163,36,47,India,4681
+10,2,10,10,Blair Chan,rdef,70,166,57,55,Montserrat,3371
+11,3,11,11,Brenton Mclean,la,79,189,61,36,Norway,3657
+12,3,12,12,Freeman Mcbride,ca,38,199,87,21,Caribbean Netherlands,2194
+13,3,13,13,Angelo Garner,ra,61,187,46,16,Russia,1386
+14,3,14,14,Harris Wagner,ldef,79,180,84,20,Kiribati,4999
+15,3,15,15,Bruno Davidson,rdef,67,196,12,21,Philippines,2173
+16,4,16,16,Lowell Herring,la,88,169,49,54,Macedonia,1684
+17,4,17,17,Lory England,ca,66,218,44,18,Mozambique,1076
+18,4,18,18,Joaquin Diaz,ra,88,158,51,35,Monaco,431
+19,4,19,19,Dan Herman,ldef,45,196,92,49,San Marino,4188
+20,4,20,20,Ricky Waters,rdef,85,152,78,63,Réunion,738
+21,5,21,21,Gregorio Cline,la,85,156,91,62,St. Vincent & Grenadines,4607
+22,5,22,22,Dave Romero,ca,56,150,63,26,Mauritania,1017
+23,5,23,23,Morgan Baird,ra,45,154,21,49,Sri Lanka,1291
+24,5,24,24,Lynna Tillman,ldef,79,163,71,54,Kyrgyzstan,4952
+25,5,25,25,Gaylord Colon,rdef,51,165,71,42,Venezuela,4569
+26,6,26,26,Blossom Murphy,la,71,154,54,26,Cyprus,3980
+27,6,27,27,Alphonse Waller,ca,38,154,91,22,Ethiopia,4302
+28,6,28,28,Mac Potter,ra,52,169,95,41,French Polynesia,1548
+29,6,29,29,Jone Lopez,ldef,78,210,13,56,Yemen,129
+30,6,30,30,Orval Sherman,rdef,70,160,36,30,Rwanda,3327
+31,7,31,31,Lamar Silva,la,87,219,68,18,French Guiana,1099
+32,7,32,32,Maxima Winters,ca,52,217,83,46,Christmas Island,2977
+33,7,33,33,Shala Lambert,ra,47,163,66,28,Sierra Leone,2297
+34,7,34,34,Orville Montoya,ldef,53,151,44,42,South Sudan,642
+35,7,35,35,Harold Gill,rdef,77,193,8,19,Northern Mariana Islands,777
+36,8,36,36,Holley Randolph,la,48,198,44,26,Tonga,2437
+37,8,37,37,Barry Saunders,ca,55,205,67,18,Eritrea,2021
+38,8,38,38,Teofila Cleveland,ra,45,203,38,62,Slovenia,4201
+39,8,39,39,Cecil Everett,ldef,80,213,82,49,Zimbabwe,1881
+40,8,40,40,Abe Barlow,rdef,76,207,6,18,South Georgia & South Sandwich Islands,15
+41,9,41,41,Nelson Dixon,la,66,199,49,44,Guadeloupe,1559
+42,9,42,42,Alexis Bridges,ca,82,192,90,49,Guam,1312
+43,9,43,43,Marlin Houston,ra,85,170,44,45,Vietnam,1484
+44,9,44,44,Jonas Rutledge,ldef,52,187,27,35,Iraq,739
+45,9,45,45,Edgar Castaneda,rdef,71,217,71,44,Tuvalu,4256
+46,10,46,46,Dulcie Holt,la,76,159,44,59,Chile,180
+47,10,47,47,Wei Hensley,ca,38,190,82,45,French Southern Territories,3926
+48,10,48,48,Darrell Poole,ra,62,155,73,31,Lesotho,1113
+49,10,49,49,Jarrod Davenport,ldef,46,176,68,47,Ukraine,3818
+50,10,50,50,Bernie Nelson,rdef,75,169,56,56,Portugal,4055
+51,11,51,51,Shawnta Frederick,la,82,207,66,33,Caribbean Netherlands,2665
+52,11,52,52,Winston Mcleod,ca,49,187,51,41,Guinea,2418
+53,11,53,53,Seymour Curtis,ra,39,184,89,50,Montserrat,1561
+54,11,54,54,Terrance Rollins,ldef,88,163,67,33,Montserrat,2301
+55,11,55,55,Wilbur Holland,rdef,70,220,98,32,Sweden,1233
+56,12,56,56,Cassy Guthrie,la,47,193,63,33,Peru,1289
+57,12,57,57,Sydney Hayes,ca,60,179,44,57,São Tomé & Príncipe,2659
+58,12,58,58,Tona Whitfield,ra,79,218,47,21,Antarctica,3498
+59,12,59,59,Jeanice Duran,ldef,51,204,67,39,Kenya,143
+60,12,60,60,Josue Brown,rdef,82,153,96,34,Anguilla,2323
+61,13,61,61,Alane Hogan,la,46,150,46,40,South Georgia & South Sandwich Islands,2388
+62,13,62,62,Kurtis Stevenson,ca,42,195,92,50,Bangladesh,4663
+63,13,63,63,Dillon Bender,ra,57,166,94,61,Argentina,4178
+64,13,64,64,Loren Norman,ldef,75,165,52,65,Netherlands,2997
+65,13,65,65,Ardath Wolfe,rdef,65,193,23,38,Kosovo,3225
+66,14,66,66,Bob Henry,la,39,191,33,28,Ceuta & Melilla,306
+67,14,67,67,Demetrius Kidd,ca,85,201,80,54,Finland,2651
+68,14,68,68,Andrew Park,ra,90,217,9,31,Pakistan,3246
+69,14,69,69,Necole Burris,ldef,54,166,65,22,Zambia,2872
+70,14,70,70,Bev Medina,rdef,49,153,24,40,France,1424
+71,15,71,71,Peter Kennedy,la,71,199,39,40,Bosnia & Herzegovina,3166
+72,15,72,72,Tennie Whitfield,ca,51,195,37,47,Belize,4148
+73,15,73,73,Deedee Wyatt,ra,54,174,25,29,Guatemala,1782
+74,15,74,74,Jorge Mosley,ldef,45,151,74,43,Turks & Caicos Islands,2519
+75,15,75,75,Linwood Flowers,rdef,73,200,46,20,Mali,430
+76,16,76,76,Lisbeth Gordon,la,59,190,26,22,Moldova,2243
+77,16,77,77,Leonardo Herrera,ca,86,193,89,50,Equatorial Guinea,4076
+78,16,78,78,Dwain Williamson,ra,52,196,98,17,Germany,4031
+79,16,79,79,Grant Vargas,ldef,46,200,78,22,New Zealand,336
+80,16,80,80,Sid Horton,rdef,60,176,53,49,American Samoa,3046
+81,17,81,81,Tandy Buckley,la,59,204,51,37,Somalia,3268
+82,17,82,82,Darlena Charles,ca,56,206,34,53,Cyprus,10
+83,17,83,83,Howard Carson,ra,78,194,2,60,Kuwait,2090
+84,17,84,84,Percy Woodward,ldef,60,189,94,16,Tanzania,2415
+85,17,85,85,Franchesca Brennan,rdef,89,207,87,56,El Salvador,220
+86,18,86,86,Armand Gregory,la,48,197,78,63,Macedonia,3965
+87,18,87,87,Jackie Elliott,ca,81,207,98,27,Liberia,765
+88,18,88,88,Willena Delgado,ra,82,170,95,27,Pitcairn Islands,3173
+89,18,89,89,Elijah Guthrie,ldef,59,212,83,48,United States,1089
+90,18,90,90,Trevor Logan,rdef,76,197,44,22,Nicaragua,681
+91,19,91,91,Rocky Montoya,la,75,209,97,44,Wallis & Futuna,3800
+92,19,92,92,Allan Whitley,ca,49,152,22,38,Nicaragua,2211
+93,19,93,93,Shaun Bruce,ra,75,168,24,50,Seychelles,181
+94,19,94,94,Zenia Solis,ldef,44,178,11,46,Singapore,807
+95,19,95,95,Lisabeth Barton,rdef,40,163,14,44,San Marino,22
+96,20,96,96,Edison Fletcher,la,89,158,48,33,Morocco,911
+97,20,97,97,Lynwood Maxwell,ca,65,195,75,18,Malawi,627
+98,20,98,98,Lajuana Beard,ra,63,218,6,62,Mauritius,2073
+99,20,99,99,Ludivina Kirkland,ldef,74,193,35,28,Canada,3595
+100,20,100,100,Ernesto Everett,rdef,76,169,85,61,French Polynesia,3058
+101,21,101,101,Odis Romero,la,66,178,37,46,Anguilla,1
+102,21,102,102,Lanie Brewer,ca,66,215,46,23,Caribbean Netherlands,3412
+103,21,103,103,Rosy Barry,ra,63,171,66,52,French Guiana,706
+104,21,104,104,Raymond Burke,ldef,51,158,47,58,Colombia,4688
+105,21,105,105,Jackeline Melton,rdef,79,153,100,30,Cambodia,4815
+106,22,106,106,Gita Joyce,la,80,157,26,25,Ethiopia,3084
+107,22,107,107,Del Barber,ca,59,164,59,22,Lithuania,2979
+108,22,108,108,Chas Riggs,ra,72,191,98,61,Martinique,30
+109,22,109,109,Lachelle Day,ldef,75,203,61,30,Belize,1844
+110,22,110,110,Floretta Donovan,rdef,38,179,0,36,Equatorial Guinea,486
+111,23,111,111,Boris Silva,la,64,182,39,51,Finland,3651
+112,23,112,112,Herman Lawrence,ca,63,195,68,29,Vatican City,4737
+113,23,113,113,Lasonya Haney,ra,62,189,100,26,Angola,3212
+114,23,114,114,Willow Acosta,ldef,62,183,62,24,Venezuela,3373
+115,23,115,115,Hoyt Atkins,rdef,53,154,42,61,Sierra Leone,1862
+116,24,116,116,Emeline O'neal,la,69,206,25,40,Northern Mariana Islands,845
+117,24,117,117,Rigoberto Weaver,ca,55,164,85,27,Åland Islands,3156
+118,24,118,118,Jae French,ra,71,157,40,54,Bermuda,2821
+119,24,119,119,Armandina Workman,ldef,59,203,20,54,Belgium,3345
+120,24,120,120,Maxima Lambert,rdef,56,160,99,37,Morocco,4327
+121,25,121,121,Samual Glenn,la,83,174,81,48,Antigua & Barbuda,1307
+122,25,122,122,Cornell Wolfe,ca,78,190,77,16,Papua New Guinea,4464
+123,25,123,123,Billy Cook,ra,75,167,100,54,Turkmenistan,4404
+124,25,124,124,Archie Cardenas,ldef,90,204,88,23,Bangladesh,4593
+125,25,125,125,Jackson Stokes,rdef,51,152,2,31,Sri Lanka,1675
+126,26,126,126,Wyatt Holt,la,85,218,39,56,France,1996
+127,26,127,127,Landon Dodson,ca,46,207,88,34,Eritrea,3769
+128,26,128,128,Delsie Cox,ra,41,215,87,26,Turks & Caicos Islands,3904
+129,26,129,129,Dexter Underwood,ldef,80,196,21,48,Bahrain,443
+130,26,130,130,Rafael Castro,rdef,87,162,4,21,Sierra Leone,545
+131,27,131,131,Scot Jarvis,la,51,176,41,65,Andorra,4862
+132,27,132,132,Fred Sargent,ca,54,218,44,55,Spain,2574
+133,27,133,133,Mammie Jennings,ra,59,199,20,63,Romania,4746
+134,27,134,134,Booker Walter,ldef,88,180,5,34,Congo - Kinshasa,3532
+135,27,135,135,Tobias Shelton,rdef,53,168,97,19,Portugal,1769
+136,28,136,136,Yolando Summers,la,58,184,25,34,Argentina,421
+137,28,137,137,Sol Kidd,ca,64,156,27,45,Honduras,72
+138,28,138,138,Homer Fry,ra,49,215,82,34,Bolivia,4461
+139,28,139,139,Tegan Reeves,ldef,55,158,2,37,Mongolia,3361
+140,28,140,140,Patience Tyson,rdef,56,172,4,45,Cocos,2685
+141,29,141,141,Reed Sparks,la,46,167,4,47,Cayman Islands,1491
+142,29,142,142,Ka Brewer,ca,60,177,0,39,Congo - Kinshasa,4441
+143,29,143,143,Frederic Huber,ra,58,172,70,28,Sint Maarten,4323
+144,29,144,144,Luise Jordan,ldef,57,154,47,23,Ethiopia,4708
+145,29,145,145,Hank Graham,rdef,48,158,26,42,British Indian Ocean Territory,1175
+146,30,146,146,Roosevelt Fox,la,41,202,9,65,Western Sahara,222
+147,30,147,147,Luci Cardenas,ca,77,209,2,25,Ethiopia,4314
+148,30,148,148,Bernarda Higgins,ra,65,167,52,17,Pakistan,2729
+149,30,149,149,Glenn Puckett,ldef,53,193,41,57,Nauru,3193
+150,30,150,150,Boyce Sheppard,rdef,41,171,55,53,French Polynesia,484
+151,31,151,151,Jeanice Stein,la,75,188,56,46,Fiji,2403
+152,31,152,152,Veola Summers,ca,45,163,56,36,Martinique,4650
+153,31,153,153,Johnny Guzman,ra,49,154,16,44,Japan,13
+154,31,154,154,Terina Crosby,ldef,41,213,82,26,Romania,4865
+155,31,155,155,Harris Pate,rdef,84,177,9,66,British Virgin Islands,3985
+156,32,156,156,Galina Howard,la,79,171,58,59,Greenland,1975
+157,32,157,157,Gary Stone,ca,42,174,20,57,Nigeria,706
+158,32,158,158,Colby Cooke,ra,67,158,99,58,Spain,2627
+159,32,159,159,Fredia Moran,ldef,89,220,86,42,Uganda,1765
+160,32,160,160,Gilberto Glenn,rdef,38,161,28,23,Sierra Leone,221
+161,33,161,161,Raelene Leblanc,la,52,198,29,56,United Arab Emirates,1253
+162,33,162,162,Shawanda Delaney,ca,70,209,3,49,South Georgia & South Sandwich Islands,1914
+163,33,163,163,Lonny Key,ra,81,185,75,54,Aruba,4711
+164,33,164,164,Phillip Garcia,ldef,54,190,36,45,Lesotho,1477
+165,33,165,165,Evelina Brown,rdef,76,153,73,66,Laos,1261
+166,34,166,166,Ernest Cooley,la,60,186,46,35,Marshall Islands,306
+167,34,167,167,Max Blankenship,ca,82,190,22,16,Mauritania,636
+168,34,168,168,Jon Stephenson,ra,55,165,57,47,Sweden,4243
+169,34,169,169,Kaila Rocha,ldef,46,172,54,33,Ireland,1985
+170,34,170,170,Mitchell Harrison,rdef,57,162,75,50,Liberia,4825
+171,35,171,171,Claude Blanchard,la,75,195,33,28,Ukraine,2232
+172,35,172,172,Johnny Townsend,ca,69,214,21,33,Cambodia,4868
+173,35,173,173,Harley Foster,ra,66,197,69,40,French Polynesia,2241
+174,35,174,174,Marcel Jimenez,ldef,68,180,53,53,United Kingdom,4237
+175,35,175,175,Tajuana Stone,rdef,53,212,29,51,Tokelau,1896
+176,36,176,176,Brant Randolph,la,43,181,14,47,Zimbabwe,2877
+177,36,177,177,Sergio Romero,ca,90,161,55,57,Guadeloupe,1948
+178,36,178,178,Nickolas Woodard,ra,72,196,88,63,Myanmar,4448
+179,36,179,179,Eduardo Allen,ldef,67,216,36,17,Bahrain,2193
+180,36,180,180,Lynna Gates,rdef,47,204,62,49,Uzbekistan,3556
+181,37,181,181,Trula Perry,la,71,186,19,41,Trinidad & Tobago,946
+182,37,182,182,Eddie Lucas,ca,74,210,57,42,Estonia,126
+183,37,183,183,Theodore Miller,ra,43,204,95,52,Germany,810
+184,37,184,184,Hyacinth Burke,ldef,74,195,61,16,Liechtenstein,2663
+185,37,185,185,Brent Warner,rdef,48,150,39,36,Cambodia,1152
+186,38,186,186,Hiedi Fox,la,81,203,8,33,Equatorial Guinea,3035
+187,38,187,187,Takisha Colon,ca,76,196,73,47,Haiti,1539
+188,38,188,188,Lavona Barton,ra,72,176,76,35,Bolivia,1209
+189,38,189,189,Laticia Howe,ldef,78,153,48,62,South Africa,3845
+190,38,190,190,Lane Reese,rdef,40,157,67,38,Turkey,540
+191,39,191,191,Dino Lee,la,38,205,4,44,Vanuatu,3260
+192,39,192,192,Boyd Morgan,ca,83,172,19,22,Antigua & Barbuda,685
+193,39,193,193,Aleshia Gallegos,ra,65,185,78,41,Guernsey,1633
+194,39,194,194,Selene Patrick,ldef,85,206,58,46,Brazil,963
+195,39,195,195,Donte Ellison,rdef,72,168,79,59,Andorra,1195
+196,40,196,196,Priscila Moore,la,79,204,25,41,Qatar,4707
+197,40,197,197,Shavonne Dejesus,ca,58,193,29,31,Malaysia,460
+198,40,198,198,Venice Browning,ra,42,206,98,23,Kuwait,1717
+199,40,199,199,Jamey Stevens,ldef,43,164,87,64,Cocos,4957
+200,40,200,200,Deeanna Hutchinson,rdef,88,212,21,62,Cape Verde,3074
+201,41,201,201,Sidney O'donnell,la,72,207,13,26,Zimbabwe,3830
+202,41,202,202,Mee Mcmillan,ca,53,156,100,55,Romania,3944
+203,41,203,203,Tora Cabrera,ra,61,182,27,36,St. Pierre & Miquelon,1114
+204,41,204,204,William Fuentes,ldef,48,163,13,37,Cocos,4311
+205,41,205,205,Ulrike Burt,rdef,57,206,57,34,France,3779
+206,42,206,206,Lavelle Beard,la,40,167,51,50,Australia,4401
+207,42,207,207,Bo Long,ca,48,169,77,39,Lithuania,2656
+208,42,208,208,Jovan Nicholson,ra,63,220,14,54,Brazil,3141
+209,42,209,209,Russ Waller,ldef,42,206,92,47,Mauritius,2467
+210,42,210,210,Thomas Mcguire,rdef,62,218,33,40,Bolivia,386
+211,43,211,211,Ardath Nicholson,la,77,212,75,33,Uzbekistan,3737
+212,43,212,212,Tiny Burks,ca,64,177,87,33,Iraq,4255
+213,43,213,213,Lavona Britt,ra,76,154,6,50,Solomon Islands,2723
+214,43,214,214,Armand Gillespie,ldef,53,182,29,65,Ceuta & Melilla,104
+215,43,215,215,Wilford Richardson,rdef,50,160,87,59,France,4514
+216,44,216,216,Margrett Kennedy,la,67,166,20,33,Zimbabwe,3392
+217,44,217,217,Melida Curry,ca,57,210,78,66,Australia,4093
+218,44,218,218,Delana Simmons,ra,80,185,93,62,French Southern Territories,2815
+219,44,219,219,Kristian Cardenas,ldef,55,154,100,43,Norfolk Island,3686
+220,44,220,220,Alejandro Murray,rdef,44,200,38,52,Malawi,2541
+221,45,221,221,Colton Ellison,la,90,205,87,19,Yemen,1901
+222,45,222,222,Clarence Mann,ca,58,214,49,45,U.S. Virgin Islands,746
+223,45,223,223,Analisa Levine,ra,43,174,98,49,Réunion,206
+224,45,224,224,Nakesha Fuller,ldef,83,205,39,58,Iran,2027
+225,45,225,225,Silas Morrison,rdef,40,212,31,59,Russia,1742
+226,46,226,226,Warner Pena,la,63,191,69,24,St. Helena,1008
+227,46,227,227,Mandie Riley,ca,46,152,16,42,New Zealand,224
+228,46,228,228,Mandie Cantu,ra,44,184,80,56,Guinea-Bissau,4966
+229,46,229,229,Teddy Potter,ldef,88,156,93,54,Falkland Islands,2141
+230,46,230,230,Newton Lopez,rdef,64,170,25,25,Luxembourg,3516
+231,47,231,231,Regine Mcneil,la,47,181,2,59,Costa Rica,2028
+232,47,232,232,Lawrence Waller,ca,89,211,6,24,United States,3711
+233,47,233,233,Ceola Spears,ra,70,190,75,17,Eritrea,3812
+234,47,234,234,Lawrence Morgan,ldef,69,152,46,53,Canada,4161
+235,47,235,235,Eddy Wilkinson,rdef,39,195,36,43,Panama,2054
+236,48,236,236,Emory Myers,la,69,217,26,40,Malawi,2856
+237,48,237,237,Jorge Barker,ca,65,171,9,34,Christmas Island,257
+238,48,238,238,Art Savage,ra,81,169,3,42,Vanuatu,1238
+239,48,239,239,Joana Lynch,ldef,80,174,19,66,Armenia,4790
+240,48,240,240,Gail Delaney,rdef,65,161,19,18,Zambia,3435
+241,49,241,241,Grant Hawkins,la,48,176,45,31,Guinea-Bissau,1758
+242,49,242,242,Hye Strickland,ca,43,207,10,22,Nauru,4033
+243,49,243,243,Lanie Best,ra,80,162,35,40,Turks & Caicos Islands,3766
+244,49,244,244,Isadora Molina,ldef,41,166,70,38,Canary Islands,4996
+245,49,245,245,Wade Navarro,rdef,70,155,62,36,Liberia,796
+246,50,246,246,Buster Monroe,la,75,193,55,46,Finland,4451
+247,50,247,247,Lynetta Morrison,ca,72,214,53,58,Antarctica,269
+248,50,248,248,Roscoe Holt,ra,40,209,36,34,Aruba,2165
+249,50,249,249,Delbert Mcgee,ldef,79,173,39,35,Montenegro,3419
+250,50,250,250,Madelaine Harrison,rdef,77,198,27,44,Wallis & Futuna,4477
